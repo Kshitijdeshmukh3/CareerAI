@@ -1,0 +1,2 @@
+# CareerAI
+CareerAI is an intelligent web application designed to empower individuals with personalized career suggestions. It helps users discover suitable professional paths by analyzing their unique interests, skills, and academic background.
